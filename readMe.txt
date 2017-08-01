@@ -5,7 +5,7 @@ How to use this script?
 Choose method and write in action and enctype if you need it.
 Write in other input fields and click the 'Add' button.
 Click the 'Reset' button, repeat previous item or just change some of fields.
-If you use Laravel click on csrf_field chackbox.
+If you use Laravel click on csrf_field checkbox.
 
 If you have any proposal for this script, or you can't understand my english - send me email klimovvm1@gmail.com. I'll try to help you:)  
 
